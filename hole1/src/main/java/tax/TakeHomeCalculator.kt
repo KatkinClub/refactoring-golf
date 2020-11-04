@@ -25,3 +25,5 @@ internal class TakeHomeCalculator(private val percent: Int) {
 
     internal class Pair<A, B>(val first: A, val second: B)
 }
+
+internal class Incalculable : RuntimeException()
