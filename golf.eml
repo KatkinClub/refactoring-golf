@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/golf"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/holeX/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/hole1/test"/>
+		<testFolder url="file://$MODULE_DIR$/hole1_after/src/main/java/after/hole1_before/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/hole1/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/hole2/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/hole3/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/hole4/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/hole5/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/hole6/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/hole7/src/test/java"/>
+	</contentEntry>
+	<lib name="JUnit4" scope="TEST"/>
+</component>

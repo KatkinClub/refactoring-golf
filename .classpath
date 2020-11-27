@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/holeX/src/main/java"/>
+	<classpathentry kind="src" path="/holeX/src/test/java"/>
+	<classpathentry kind="src" path="/hole1/test"/>
+	<classpathentry kind="src" path="/hole1/main"/>
+	<classpathentry kind="src" path="/hole1_after/src/main/java/after/hole1_before/src/main/java"/>
+	<classpathentry kind="src" path="/hole1_after/src/main/java/after/hole1_before/src/test/java"/>
+	<classpathentry kind="src" path="/golf/hole1/src/main/java"/>
+	<classpathentry kind="src" path="/golf/hole1/src/test/java"/>
+	<classpathentry kind="src" path="/golf/hole2/src/main/java"/>
+	<classpathentry kind="src" path="/golf/hole2/src/test/java"/>
+	<classpathentry kind="src" path="/golf/hole3/src/main/java"/>
+	<classpathentry kind="src" path="/golf/hole3/src/test/java"/>
+	<classpathentry kind="src" path="/golf/hole4/src/main/java"/>
+	<classpathentry kind="src" path="/golf/hole4/src/test/java"/>
+	<classpathentry kind="src" path="/golf/hole5/src/main/java"/>
+	<classpathentry kind="src" path="/golf/hole5/src/test/java"/>
+	<classpathentry kind="src" path="/golf/hole6/src/main/java"/>
+	<classpathentry kind="src" path="/golf/hole6/src/test/java"/>
+	<classpathentry kind="src" path="/golf/hole7/src/main/java"/>
+	<classpathentry kind="src" path="/golf/hole7/src/test/java"/>
+	<classpathentry kind="var" path="APPLICATION_HOME_DIR/lib/junit-4.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

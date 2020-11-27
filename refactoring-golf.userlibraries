@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="tailwindcss">
+    <archive path="/Users/reinholds/Library/Application Support/JetBrains/IntelliJIdea2020.2/javascript/extLibs/http_unpkg.com_tailwindcss@^1.0_dist_tailwind.css" />
+  </library>
+  <library name="bootstrap">
+    <archive path="/Users/reinholds/Library/Application Support/JetBrains/IntelliJIdea2020.2/javascript/extLibs/http_stackpath.bootstrapcdn.com_bootstrap_4.4.1_css_bootstrap.css" />
+    <archive path="/Users/reinholds/Library/Application Support/JetBrains/IntelliJIdea2020.2/javascript/extLibs/http_stackpath.bootstrapcdn.com_bootstrap_4.4.1_js_bootstrap.js" />
+  </library>
+  <library name="font-awesome">
+    <archive path="/Users/reinholds/Library/Application Support/JetBrains/IntelliJIdea2020.2/javascript/extLibs/http_stackpath.bootstrapcdn.com_font-awesome_4.7.0_css_font-awesome.css" />
+  </library>
+  <library name="jquery-ui">
+    <archive path="/Users/reinholds/Library/Application Support/JetBrains/IntelliJIdea2020.2/javascript/extLibs/http_code.jquery.com_ui_1.12.1_jquery-ui.js" />
+  </library>
+  <library name="jquery-3.5.1">
+    <archive path="/Users/reinholds/Library/Application Support/JetBrains/IntelliJIdea2020.2/javascript/extLibs/http_code.jquery.com_jquery-3.5.1.js" />
+  </library>
+  <library name="popper.js">
+    <archive path="/Users/reinholds/Library/Application Support/JetBrains/IntelliJIdea2020.2/javascript/extLibs/http_cdn.jsdelivr.net_npm_popper.js@1.16.0_dist_umd_popper.js" />
+  </library>
+</eclipse-userlibraries>
+
